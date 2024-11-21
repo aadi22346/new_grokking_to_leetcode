@@ -89,7 +89,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-- [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [X] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
 - [ ] [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
@@ -97,7 +97,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
-- [ ] [Reverse Nodes In Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
+- [X] [Reverse Nodes In Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
 
 - [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
