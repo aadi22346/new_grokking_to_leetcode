@@ -105,7 +105,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
 
-- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+- [X] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
 - [X] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
