@@ -153,9 +153,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
-- [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [X] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
-- [ ] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- [X] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
 ## Subsets
 
